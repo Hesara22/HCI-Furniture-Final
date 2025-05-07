@@ -1,4 +1,3 @@
-# Group11
 # HCI Coursework – PULS3122
 
 ## 📌 Project Overview
