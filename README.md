@@ -11,11 +11,12 @@ This project showcases our application of HCI principles using the Agile softwar
 
 ## Team Members
 
-- [Dihelie Gunathilaka] – Role/Responsibility
-- [Member 2 Name] – Role/Responsibility
-- [Member 3 Name] – Role/Responsibility
-- [Member 4 Name] – Role/Responsibility
-- [Member 5 Name] – Role/Responsibility
+- Kristhombu Neilkumara
+- Galagedara Senevirathne
+- Egoda Hettiarachchi
+- Sellappu Devindi
+- Lagamuwa T Sachinika
+- Hetti Bandara
 
 ---
 
